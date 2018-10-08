@@ -1,0 +1,13 @@
+.header {
+    background: $daly-blue;
+    margin-bottom: 3rem;
+    text-align: center;
+    padding: $top-bottom-padding $right-left-padding;   
+}
+
+//BEM naming convention
+.header__title {
+    font-size: $header-font-height;
+    margin: 0;
+    color: $white-color;
+}
